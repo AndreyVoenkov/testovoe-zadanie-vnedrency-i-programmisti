@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.15">
+	<Item id="e39149c2-3730-465c-af8e-2dd2868e0c37">
+		<Name>ОсновнойСклад</Name>
+		<Code>000000001</Code>
+		<Description>Основной склад</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="1d292df2-dd37-4858-af56-261e9f89d8e7">
+		<Name>РезервныйСклад</Name>
+		<Code>000000002</Code>
+		<Description>Резервный склад</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="f9388967-db30-4842-866d-6e178408d7c5">
+		<Name>РозничныйСклад</Name>
+		<Code>000000003</Code>
+		<Description>Розничный склад</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
